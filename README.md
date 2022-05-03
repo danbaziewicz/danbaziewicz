@@ -1,4 +1,4 @@
-### Socials
+# Socials
 
 <p align="left"> <a href="https://www.github.com/danbaziewicz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danbaziewicz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <a href="http://www.github.com/danbaziewicz"><img src="https://github-readme-stats.vercel.app/api?username=danbaziewicz&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=0891b2&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="danbaziewicz's GitHub stats" /></a>
